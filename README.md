@@ -2,8 +2,6 @@
 
 A local-first desktop history of your computer day, built with Python, PySide6, and QML on top of ActivityWatch.
 
-The current direction is documented in [design-direction.md](design-direction.md). The original [product spec](digital-day-tracker-spec.md) preserves the earlier vision.
-
 ## Run
 
 With [uv](https://docs.astral.sh/uv/) installed:
