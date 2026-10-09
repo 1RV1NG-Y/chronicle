@@ -6,3 +6,10 @@ __pycache__/
 
 # Local clone of upstream ActivityWatch, kept for reference only
 reference-activitywatch/
+
+# Design references and mockups (kept locally, not part of the app)
+building-a-full-redesign-*.webp
+xt8n45eppxhh1.png
+docs/expanded-preview.png
+# Output of scripts/preview.py
+timeline.png
